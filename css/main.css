@@ -1,0 +1,110 @@
+* {
+  line-height: 1.2;
+  margin: 0;
+}
+
+@font-face {
+  font-family: GrundfosTheSansV2OT;
+  src: url(../fonts/GrundfosTheSansV2Bold.ttf);
+}
+
+html {
+  display: table;
+  font-family: GrundfosTheSansV2OT, Helvetica, sans-serif;
+  height: 100%;
+  text-align: center;
+  width: 100%;
+  font-weight: 200;
+}
+
+body{
+  font-family: GrundfosTheSansV2OT;
+}
+
+h6 {
+  font-family: GrundfosTheSansV2OT;
+  font-size: 1.2em
+}
+
+#menu-toggle {
+  background-color: #11497B;
+  font-family: GrundfosTheSansV2OT;
+  border-radius: 0px;
+  border: 0px;
+  box-shadow: none;
+}
+
+.sidebar-nav li{
+  font-family: GrundfosTheSansV2OT;
+}
+
+
+.tab-content{
+  margin-left: 250px;
+  padding: 1em;
+}
+
+#sidebar-wrapper img{
+  display: flex;
+  width: 85%;
+  margin: 5% auto;
+}
+
+.legend{
+  margin-top: 10px;
+  list-style-type: none;
+  text-align: right;
+  background-color: #34648f;
+  margin-left: 55%;
+  border-radius: 10px 0px 0px 10px;
+  padding-left: 0px;
+}
+
+.legend li{
+  padding-top: 5px;
+  padding-right: 12px;
+}
+
+#legend-active{
+  color: #4aa22c;
+}
+
+#legend-deactive{
+  color: #dd0028;
+}
+
+#legend-rfi{
+  color: #969a9c;
+}
+
+
+.gridContainer {
+  max-width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-gap: 20px;
+  padding: 10px;
+}
+.gridContainer > .gridItem {
+  display: inline-block;
+  text-align: center;
+  padding: 20px 0;
+  vertical-align: middle;
+}
+
+.hidden{
+  display: none;
+}
+
+.activate h6{
+  color: #4aa22c;
+  size: 1em;
+}
+
+.deactivate h6{
+  color: #dd0028;
+}
+
+.other h6{
+  color: #969a9c;
+}

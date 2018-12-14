@@ -1,0 +1,3251 @@
+{
+  "jcr:primaryType": "cq:Page",
+  "jcr:createdBy": "52140",
+  "jcr:created": "Mon Apr 11 2016 12:44:43 GMT+0200",
+  "jcr:content": {
+    "jcr:primaryType": "cq:PageContent",
+    "jcr:mixinTypes": [
+      "mix:versionable"
+    ],
+    "jcr:createdBy": "52140",
+    "jcr:title": "All Topics",
+    "cq:lastReplicationAction": "Activate",
+    "jcr:versionHistory": "9a254e72-c8be-4988-9204-30d44bad697d",
+    "cq:template": "/apps/grundfos/ecademy_web/templates/ecademy_page",
+    "cq:lastReplicatedBy": "52140",
+    "jcr:predecessors": [
+      "15e0c43a-5c2a-496d-a6a1-01cd1b7ebbc3"
+    ],
+    "jcr:created": "Mon Apr 11 2016 12:44:43 GMT+0200",
+    "cq:lastReplicated": "Tue Oct 25 2016 15:20:20 GMT+0200",
+    "cq:lastModified": "Tue Oct 25 2016 15:45:09 GMT+0200",
+    "jcr:baseVersion": "15e0c43a-5c2a-496d-a6a1-01cd1b7ebbc3",
+    "jcr:isCheckedOut": true,
+    "cq:tags": [
+      "grundfos:page-category/others"
+    ],
+    "jcr:uuid": "ae2eb0c9-4057-4d1c-8a77-26791b07169a",
+    "sling:resourceType": "grundfos/ecademy_web/templates/components/example",
+    "cq:lastModifiedBy": "52140",
+    "content": {
+      "jcr:primaryType": "nt:unstructured",
+      "jcr:mixinTypes": [
+
+      ],
+      "sling:resourceType": "foundation/components/parsys"
+    },
+    "image": {
+      "jcr:primaryType": "nt:unstructured",
+      "jcr:mixinTypes": [
+
+      ],
+      "jcr:lastModifiedBy": "admin",
+      "jcr:lastModified": "Mon Apr 11 2016 12:42:47 GMT+0200",
+      "imageRotate": "0"
+    }
+  },
+  "prize-redemption": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Mon Apr 11 2016 12:44:43 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "Prize Redemption",
+      "cq:lastReplicationAction": "Deactivate",
+      "jcr:versionHistory": "affc9681-ebe1-4d45-bbb7-ce49fcb06f30",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/prize_redemption_page",
+      "cq:lastReplicatedBy": "52036",
+      "jcr:predecessors": [
+        "ab8d68f9-8525-47b8-9393-e5a5fadf2e9c"
+      ],
+      "jcr:created": "Mon Apr 11 2016 12:44:43 GMT+0200",
+      "cq:lastReplicated": "Tue Nov 27 2018 09:47:45 GMT+0100",
+      "cq:lastModified": "Mon Apr 11 2016 12:44:43 GMT+0200",
+      "jcr:baseVersion": "ab8d68f9-8525-47b8-9393-e5a5fadf2e9c",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "grundfos:page-category/others"
+      ],
+      "jcr:uuid": "f88a9eee-cf29-4ca2-8630-3103af046d97",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/prize_redemption",
+      "cq:lastModifiedBy": "52140"
+    },
+    "prize-receipt": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 12:44:43 GMT+0200"
+    },
+    "prizes": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 12:44:43 GMT+0200"
+    },
+    "grundfos_usb_stiktwister8gb": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 12:44:43 GMT+0200"
+    },
+    "grundfos_indicatorkeyrings": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 12:44:43 GMT+0200"
+    },
+    "grundfos_water_bottle": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 12:44:43 GMT+0200"
+    },
+    "vouchers": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 12:44:43 GMT+0200"
+    },
+    "donations": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 12:44:43 GMT+0200"
+    },
+    "directprizes": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 12:44:43 GMT+0200"
+    }
+  },
+  "water-boosting-in-commercial-buildings": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Mon Apr 11 2016 15:59:01 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "Water boosting in commercial buildings",
+      "cq:lastReplicationAction": "Activate",
+      "jcr:versionHistory": "d6779f97-b2b7-4dd8-961a-161c6b8e0205",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "cq:lastReplicatedBy": "55744",
+      "jcr:predecessors": [
+        "c41014de-9c65-4b7d-9626-ea09699a95cf"
+      ],
+      "jcr:created": "Mon Apr 11 2016 15:59:01 GMT+0200",
+      "cq:lastReplicated": "Wed Oct 26 2016 15:53:59 GMT+0200",
+      "cq:lastModified": "Mon Apr 02 2018 10:41:28 GMT+0200",
+      "jcr:description": "In this topic you will learn about pressure boosting and how you can increase comfort and bring down operational costs by choosing the optimum solution.  ",
+      "jcr:baseVersion": "c41014de-9c65-4b7d-9626-ea09699a95cf",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "ecademy:roles/consulting-engineer/commercial-buildings/pressure-boosting",
+        "grundfos:page-category/others",
+        "ecademy:roles/installer/commercial-buildings/pressure-boosting",
+        "ecademy:roles/professional-end-user/commercial-buildings/pressure-boosting",
+        "ecademy:roles/service-partner/commercial-buildings/pressure-boosting",
+        "ecademy:roles/wholesaler-distributor/commercial-buildings/pressure-boosting"
+      ],
+      "jcr:uuid": "f6795ccf-4c9a-46ba-a773-ef60cc90876d",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "difficulty": "basic",
+      "cq:lastModifiedBy": "66674"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:43:42 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:43:42 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:59:01 GMT+0200"
+    },
+    "introduction-to-grundfos-water-boosting-where-to-use-it-and-which-solution-to-choose": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:59:34 GMT+0200"
+    },
+    "the-advantages-of-zone-divided-booster-systems": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:59:34 GMT+0200"
+    },
+    "water-boosting-systems-in-commercial-buildings": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:59:34 GMT+0200"
+    }
+  },
+  "wastewater-in-commercial-buildings": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Mon Apr 11 2016 15:58:32 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "Wastewater  in commercial buildings ",
+      "cq:lastReplicationAction": "Activate",
+      "jcr:versionHistory": "ee02fd4c-6197-44c5-8d4a-baa1326e128f",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "cq:lastReplicatedBy": "55744",
+      "jcr:predecessors": [
+        "613f134f-3378-462c-8a92-ac8f85a32337"
+      ],
+      "jcr:created": "Mon Apr 11 2016 15:58:32 GMT+0200",
+      "cq:lastReplicated": "Wed Oct 26 2016 15:54:23 GMT+0200",
+      "cq:lastModified": "Wed Oct 26 2016 15:54:20 GMT+0200",
+      "jcr:description": "Learn all about the most common approaches to wastewater removal in commercial buildings as well as drainage considerations in planning a building.",
+      "jcr:baseVersion": "613f134f-3378-462c-8a92-ac8f85a32337",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "grundfos:page-category/others",
+        "ecademy:roles/consulting-engineer/municipal-wastewater/wastewater-transport",
+        "ecademy:roles/installer/commercial-buildings/wastewater-cbs",
+        "ecademy:roles/installer/municipal-wastewater/wastewater-transport",
+        "ecademy:roles/professional-end-user/commercial-buildings/wastewater-cbs",
+        "ecademy:roles/professional-end-user/municipal-wastewater/wastewater-transport",
+        "ecademy:roles/service-partner/commercial-buildings/wastewater-cbs",
+        "ecademy:roles/service-partner/municipal-wastewater/wastewater-transport",
+        "ecademy:roles/wholesaler-distributor/commercial-buildings/wastewater-cbs",
+        "ecademy:roles/wholesaler-distributor/municipal-wastewater/wastewater-transport"
+      ],
+      "jcr:uuid": "f7ed3bfa-2bac-49eb-adab-f5cda8346952",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "cq:lastModifiedBy": "55744"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:42:06 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:42:06 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:58:32 GMT+0200"
+    },
+    "lifting-wastewater-from-basements": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:59:01 GMT+0200"
+    },
+    "the-grundfos-multilift": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:59:01 GMT+0200"
+    },
+    "drainage": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:59:01 GMT+0200"
+    }
+  },
+  "wastewater": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Mon Apr 11 2016 15:57:32 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "Wastewater",
+      "cq:lastReplicationAction": "Activate",
+      "jcr:versionHistory": "64dcac6c-a574-40ee-8bd6-5806818f6102",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "cq:lastReplicatedBy": "55744",
+      "jcr:predecessors": [
+        "6dcbea89-b8a8-4b88-81d1-4fdfcf299c8d"
+      ],
+      "jcr:created": "Mon Apr 11 2016 15:57:32 GMT+0200",
+      "cq:lastReplicated": "Wed Oct 26 2016 15:54:45 GMT+0200",
+      "cq:lastModified": "Wed Oct 26 2016 15:54:43 GMT+0200",
+      "jcr:baseVersion": "6dcbea89-b8a8-4b88-81d1-4fdfcf299c8d",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "ecademy:roles/consulting-engineer/commercial-buildings/wastewater-cbs",
+        "grundfos:page-category/others",
+        "ecademy:roles/installer/commercial-buildings/wastewater-cbs",
+        "ecademy:roles/professional-end-user/commercial-buildings/wastewater-cbs",
+        "ecademy:roles/service-partner/commercial-buildings/wastewater-cbs",
+        "ecademy:roles/wholesaler-distributor/commercial-buildings/wastewater-cbs"
+      ],
+      "jcr:uuid": "05e86541-84fe-4a6d-b1cc-5eeff1a2ece6",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "cq:lastModifiedBy": "55744"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:57:32 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:57:32 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:57:32 GMT+0200"
+    },
+    "wastewater-introduction": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:58:32 GMT+0200"
+    },
+    "system-design": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:58:01 GMT+0200"
+    },
+    "backflow-prevention": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:58:01 GMT+0200"
+    },
+    "backflow-comparison-of-preventive-methods": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:58:01 GMT+0200"
+    }
+  },
+  "air-conditioning": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Mon Apr 11 2016 12:46:51 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "Air Conditioning",
+      "cq:lastReplicationAction": "Activate",
+      "jcr:versionHistory": "cb708b3c-5e85-4b6b-b946-9127050fd28f",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "cq:lastReplicatedBy": "55744",
+      "jcr:predecessors": [
+        "089ee564-4faf-484f-8be0-3182cd8a1ece"
+      ],
+      "jcr:created": "Mon Apr 11 2016 12:46:51 GMT+0200",
+      "cq:lastReplicated": "Wed Oct 26 2016 15:55:13 GMT+0200",
+      "cq:lastModified": "Wed Oct 26 2016 15:55:10 GMT+0200",
+      "jcr:baseVersion": "089ee564-4faf-484f-8be0-3182cd8a1ece",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "ecademy:roles/consulting-engineer/commercial-buildings/cooling-cbs",
+        "grundfos:page-category/others",
+        "ecademy:roles/professional-end-user/commercial-buildings/cooling-cbs",
+        "ecademy:roles/installer/commercial-buildings/cooling-cbs",
+        "ecademy:roles/service-partner/commercial-buildings/cooling-cbs",
+        "ecademy:roles/wholesaler-distributor/commercial-buildings/cooling-cbs"
+      ],
+      "jcr:uuid": "5556741b-9b09-4686-9015-5a33acc56b71",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "cq:lastModifiedBy": "55744"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 12:46:51 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 12:46:51 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 12:46:51 GMT+0200"
+    },
+    "introduction-to-air-conditioning": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 12:47:08 GMT+0200"
+    },
+    "control-modes": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 12:47:08 GMT+0200"
+    },
+    "system-options-and-saving-possibilities": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 12:47:08 GMT+0200"
+    }
+  },
+  "mixing-loops": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Mon Apr 11 2016 15:35:01 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "Mixing Loops",
+      "cq:lastReplicationAction": "Activate",
+      "jcr:versionHistory": "3e432c3d-d916-4a83-bdfc-6dbaf3bc6fde",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "cq:lastReplicatedBy": "55744",
+      "jcr:predecessors": [
+        "65d833e7-2c7a-4f28-9baa-e2df4c52dc47"
+      ],
+      "jcr:created": "Mon Apr 11 2016 15:35:01 GMT+0200",
+      "cq:lastReplicated": "Wed Oct 26 2016 15:55:33 GMT+0200",
+      "cq:lastModified": "Wed Oct 26 2016 15:55:31 GMT+0200",
+      "jcr:baseVersion": "65d833e7-2c7a-4f28-9baa-e2df4c52dc47",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "ecademy:roles/consulting-engineer/commercial-buildings",
+        "grundfos:page-category/others",
+        "ecademy:roles/installer/commercial-buildings",
+        "ecademy:roles/professional-end-user/commercial-buildings",
+        "ecademy:roles/service-partner/commercial-buildings",
+        "ecademy:roles/wholesaler-distributor/commercial-buildings"
+      ],
+      "jcr:uuid": "2da14e72-b7c1-4f10-8892-cdb5c9c79ece",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "cq:lastModifiedBy": "55744"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:31:49 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:31:49 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:35:02 GMT+0200"
+    },
+    "introduction-to-mixing-loops": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:35:36 GMT+0200"
+    }
+  },
+  "basic-principles-and-pump-types": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Mon Apr 11 2016 15:22:30 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "Basic Principles and Pump Types",
+      "cq:lastReplicationAction": "Activate",
+      "jcr:versionHistory": "3754d7f1-7eb2-4466-8ef0-9c30213fdefe",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "cq:lastReplicatedBy": "55744",
+      "jcr:predecessors": [
+        "f4f2ad72-6402-4d1c-8376-e8e7f5340cf2"
+      ],
+      "jcr:created": "Mon Apr 11 2016 15:22:30 GMT+0200",
+      "cq:lastReplicated": "Wed Oct 26 2016 15:55:53 GMT+0200",
+      "cq:lastModified": "Wed Oct 26 2016 15:55:50 GMT+0200",
+      "jcr:description": "Need to refresh your basic knowledge of how pumps work and are categorised? This topic gives you the answers, and presents the main pump types that Grundfos produces.",
+      "jcr:baseVersion": "f4f2ad72-6402-4d1c-8376-e8e7f5340cf2",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "grundfos:page-category/others",
+        "ecademy:roles/consulting-engineer",
+        "ecademy:roles/installer",
+        "ecademy:roles/professional-end-user",
+        "ecademy:roles/service-partner",
+        "ecademy:roles/wholesaler-distributor"
+      ],
+      "jcr:uuid": "dbbd8974-9ad8-4631-acce-16b1f26543eb",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "cq:lastModifiedBy": "55744"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:22:30 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:22:30 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:22:30 GMT+0200"
+    },
+    "about-pumps-and-the-two-main-pump-types": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:22:53 GMT+0200"
+    },
+    "grundfos-pump-types": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:22:53 GMT+0200"
+    },
+    "main-impeller-types": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:22:53 GMT+0200"
+    },
+    "about-pump-curves": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:22:53 GMT+0200"
+    },
+    "centrifugal-pump-types": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:22:53 GMT+0200"
+    }
+  },
+  "grundfos-product-center-working-with-projects": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Mon Apr 11 2016 15:27:58 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "Grundfos Product Center - Working with projects",
+      "cq:lastReplicationAction": "Activate",
+      "jcr:versionHistory": "fd9b4d44-e6a1-4d21-9387-9f6df68bb6ff",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "cq:lastReplicatedBy": "52036",
+      "jcr:predecessors": [
+        "159d6002-d83a-440d-8014-27ae7865ba0c"
+      ],
+      "jcr:created": "Mon Apr 11 2016 15:27:58 GMT+0200",
+      "cq:lastReplicated": "Thu Feb 08 2018 10:51:31 GMT+0100",
+      "cq:lastModified": "Wed Oct 26 2016 15:56:09 GMT+0200",
+      "jcr:baseVersion": "159d6002-d83a-440d-8014-27ae7865ba0c",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "ecademy:roles/consulting-engineer",
+        "grundfos:page-category/others",
+        "ecademy:roles/installer",
+        "ecademy:roles/professional-end-user",
+        "ecademy:roles/service-partner",
+        "ecademy:roles/wholesaler-distributor"
+      ],
+      "jcr:uuid": "b4f532ee-f47a-4b29-bab7-0059a2e1ec2a",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "cq:lastModifiedBy": "55744"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:39:58 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:39:58 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:27:58 GMT+0200"
+    },
+    "creating-and-using-a-project": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:28:15 GMT+0200"
+    },
+    "using-project-documentation": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:28:54 GMT+0200"
+    },
+    "collaborate-with-others": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:28:15 GMT+0200"
+    }
+  },
+  "grundfos-product-center-finding-spare-parts-and-service-kits": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Mon Apr 11 2016 15:27:22 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "Grundfos Product Center - Finding spare parts and service kits",
+      "cq:lastReplicationAction": "Activate",
+      "jcr:versionHistory": "b93c181d-2103-4cbf-906e-49caed280e85",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "cq:lastReplicatedBy": "52036",
+      "jcr:predecessors": [
+        "b625da94-5390-45ab-ad40-74d0c4dcf31c"
+      ],
+      "jcr:created": "Mon Apr 11 2016 15:27:22 GMT+0200",
+      "cq:lastReplicated": "Thu Feb 08 2018 10:51:40 GMT+0100",
+      "cq:lastModified": "Wed Oct 26 2016 15:56:37 GMT+0200",
+      "jcr:baseVersion": "b625da94-5390-45ab-ad40-74d0c4dcf31c",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "grundfos:page-category/others",
+        "ecademy:roles/professional-end-user",
+        "ecademy:roles/service-partner",
+        "ecademy:roles/wholesaler-distributor"
+      ],
+      "jcr:uuid": "e6a36846-9d95-42e4-97ae-e194a272fe58",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "cq:lastModifiedBy": "55744"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:40:49 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:40:49 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:27:22 GMT+0200"
+    },
+    "about-spare-parts-and-service-kits": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:27:43 GMT+0200"
+    },
+    "search-for-spare-parts-in-the-product-center": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:27:43 GMT+0200"
+    },
+    "spare-parts-installation-guides": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:27:43 GMT+0200"
+    }
+  },
+  "life-cycle-costs": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Mon Apr 11 2016 15:32:03 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "Life Cycle Costs",
+      "cq:lastReplicationAction": "Activate",
+      "jcr:versionHistory": "6f14da15-ac9a-414e-a472-3148ab4fdb7a",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "cq:lastReplicatedBy": "52036",
+      "jcr:predecessors": [
+        "953a4564-e1fe-4b67-b365-ebdd8e5a86ea"
+      ],
+      "jcr:created": "Mon Apr 11 2016 15:32:03 GMT+0200",
+      "cq:lastReplicated": "Thu Feb 08 2018 10:47:42 GMT+0100",
+      "cq:lastModified": "Thu Oct 25 2018 10:28:23 GMT+0200",
+      "jcr:description": "This topic introduces you to the concept of life cycle cost analysis and reveals the hidden costs of a pumping system.",
+      "jcr:baseVersion": "953a4564-e1fe-4b67-b365-ebdd8e5a86ea",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "ecademy:roles/consulting-engineer",
+        "ecademy:roles/consulting-engineer/commercial-buildings",
+        "grundfos:page-category/others"
+      ],
+      "jcr:uuid": "53729972-ec82-4c69-9260-086463ca68bb",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "difficulty": "basic",
+      "cq:lastModifiedBy": "911509"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:31:19 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:31:19 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:32:04 GMT+0200"
+    },
+    "introduction": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:32:37 GMT+0200"
+    },
+    "case-example-new-york-hotel": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:32:37 GMT+0200"
+    },
+    "control-modes-for-maximum-savings": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:32:37 GMT+0200"
+    },
+    "pump-configuration-modes": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:32:37 GMT+0200"
+    }
+  },
+  "water-disinfection": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Mon Apr 11 2016 15:59:34 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "Water Disinfection",
+      "cq:lastReplicationAction": "Activate",
+      "jcr:versionHistory": "de0e1f19-4369-4716-91ce-44b0e9be026e",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "cq:lastReplicatedBy": "52036",
+      "jcr:predecessors": [
+        "87973f6f-e075-41ce-880b-45306973a160"
+      ],
+      "jcr:created": "Mon Apr 11 2016 15:59:34 GMT+0200",
+      "cq:lastReplicated": "Thu Feb 08 2018 10:48:15 GMT+0100",
+      "cq:lastModified": "Wed Sep 28 2016 10:46:44 GMT+0200",
+      "jcr:baseVersion": "87973f6f-e075-41ce-880b-45306973a160",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "ecademy:roles/consulting-engineer",
+        "ecademy:roles/consulting-engineer/commercial-buildings/water-treatmentcbs",
+        "grundfos:page-category/others"
+      ],
+      "jcr:uuid": "4a8a687e-65d8-4d9c-bd0b-d9d05d7a9c08",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "cq:lastModifiedBy": "52140"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:59:34 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:59:34 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:59:34 GMT+0200"
+    },
+    "introduction-to-water-disinfection": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 16:00:06 GMT+0200"
+    },
+    "applications-for-water-disinfection": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 16:00:06 GMT+0200"
+    },
+    "water-disinfection-methods": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 16:00:06 GMT+0200"
+    }
+  },
+  "Groundbreaking-vertical-In-line-pump": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Mon Apr 11 2016 12:45:44 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "Groundbreaking vertical In-line pump (TPE3)",
+      "cq:lastReplicationAction": "Activate",
+      "jcr:versionHistory": "04dc789c-0cfd-4101-aae7-ee032d105224",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "cq:lastReplicatedBy": "49456",
+      "jcr:predecessors": [
+        "52b3af9a-0a49-4b70-b5d8-83bfbfe33564"
+      ],
+      "jcr:created": "Mon Apr 11 2016 12:45:44 GMT+0200",
+      "cq:lastReplicated": "Mon Oct 29 2018 11:01:49 GMT+0100",
+      "cq:lastModified": "Wed Sep 28 2016 10:52:19 GMT+0200",
+      "jcr:baseVersion": "52b3af9a-0a49-4b70-b5d8-83bfbfe33564",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "ecademy:roles/consulting-engineer/commercial-buildings/cooling-cbs",
+        "ecademy:roles/consulting-engineer/commercial-buildings/heating-cbs",
+        "ecademy:roles/consulting-engineer/industry/cooling-ind",
+        "ecademy:roles/consulting-engineer/industry/heating-ind",
+        "grundfos:page-category/others",
+        "ecademy:roles/professional-end-user/commercial-buildings/cooling-cbs",
+        "ecademy:roles/professional-end-user/commercial-buildings/heating-cbs",
+        "ecademy:roles/professional-end-user/industry/cooling-ind",
+        "ecademy:roles/professional-end-user/industry/heating"
+      ],
+      "jcr:uuid": "77710bb3-5e1c-47d4-a8fa-ff2847038322",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "cq:lastModifiedBy": "52140"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:41:27 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:41:28 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 12:45:44 GMT+0200"
+    },
+    "introduction-the-system-optimisation-tpe3-pump": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 12:45:54 GMT+0200"
+    },
+    "improving-a-chilled-water-application": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 12:45:54 GMT+0200"
+    },
+    "tpe2-vs-tpe3-when-to-choose-what": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 12:46:02 GMT+0200"
+    }
+  },
+  "high-efficiency-hydronic-systems": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Mon Apr 11 2016 15:30:06 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "High efficiency hydronic systems",
+      "cq:lastReplicationAction": "Activate",
+      "jcr:versionHistory": "2f1b9c44-5ab4-4d8e-b908-c560b89b1f86",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "cq:lastReplicatedBy": "52036",
+      "jcr:predecessors": [
+        "ea8d5974-81b7-4519-b899-215929c785aa"
+      ],
+      "jcr:created": "Mon Apr 11 2016 15:30:06 GMT+0200",
+      "cq:lastReplicated": "Thu Feb 08 2018 10:48:25 GMT+0100",
+      "cq:lastModified": "Wed Sep 28 2016 10:47:11 GMT+0200",
+      "jcr:description": "This topic teaches you about the advantages of hydronic systems of forced air systems as well as the basic principles of radiant cooling and heating.",
+      "jcr:baseVersion": "ea8d5974-81b7-4519-b899-215929c785aa",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "ecademy:roles/consulting-engineer/commercial-buildings/heating-cbs",
+        "ecademy:roles/consulting-engineer/commercial-buildings/cooling-cbs",
+        "grundfos:page-category/others"
+      ],
+      "jcr:uuid": "3f8518c2-746d-4260-8044-93baaffddf7e",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "cq:lastModifiedBy": "52140"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:42:26 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:42:26 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:30:06 GMT+0200"
+    },
+    "introduction": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:30:39 GMT+0200"
+    },
+    "basic-principles-of-radiant-cooling-and-heating": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:30:39 GMT+0200"
+    },
+    "optimising-radiant-cooling-applications": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:30:39 GMT+0200"
+    }
+  },
+  "heating-systems": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Mon Apr 11 2016 15:29:47 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "Heating Systems",
+      "cq:lastReplicationAction": "Activate",
+      "jcr:versionHistory": "d293520f-cc36-44ad-80e4-e57c6f339143",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "cq:lastReplicatedBy": "911509",
+      "jcr:predecessors": [
+        "f33a2303-aae9-4124-a318-c9fc42a23b5e"
+      ],
+      "jcr:created": "Mon Apr 11 2016 15:29:47 GMT+0200",
+      "cq:lastReplicated": "Wed Nov 21 2018 09:11:22 GMT+0100",
+      "cq:lastModified": "Wed Nov 21 2018 08:50:49 GMT+0100",
+      "jcr:description": "This topic teaches you about heating systems in commercial buildings with a special focus on balancing and the advantages of using intelligent pump solutions.",
+      "jcr:baseVersion": "f33a2303-aae9-4124-a318-c9fc42a23b5e",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "ecademy:roles/consulting-engineer/commercial-buildings/heating-cbs",
+        "grundfos:page-category/others"
+      ],
+      "jcr:uuid": "46f06205-b34c-4531-8f76-5a6b6dfc8fac",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "difficulty": "basic",
+      "cq:lastModifiedBy": "911509"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:42:46 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:42:46 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:29:47 GMT+0200"
+    },
+    "introduction-to-heating-systems-in-commercial-buildings": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:30:39 GMT+0200"
+    },
+    "balancing-heating-systems-in-commercial-buildings": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:30:39 GMT+0200"
+    },
+    "a-comparison-of-a-traditional-and-an-intelligent-hvac-system-ppt": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:30:39 GMT+0200"
+    },
+    "magna1-the-cost-effective-replacement-pump": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:30:39 GMT+0200"
+    }
+  },
+  "introduction-to-temperature-control": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Wed Sep 28 2016 10:20:41 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "Introduction to temperature control ",
+      "cq:lastReplicationAction": "Activate",
+      "jcr:versionHistory": "e6955e66-f4c6-4938-97ca-55b85a3c3a24",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "cq:lastReplicatedBy": "911509",
+      "jcr:predecessors": [
+        "a7127a97-0aba-483d-bbb4-5fe657573527"
+      ],
+      "jcr:created": "Wed Sep 28 2016 10:20:41 GMT+0200",
+      "cq:lastReplicated": "Wed Nov 21 2018 09:11:03 GMT+0100",
+      "cq:lastModified": "Wed Nov 21 2018 09:10:57 GMT+0100",
+      "jcr:description": "This topic will give a quick introduction to temperature control systems, including how to optimise and what to be aware of when designing a system.",
+      "jcr:baseVersion": "a7127a97-0aba-483d-bbb4-5fe657573527",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "grundfos:page-category/industries",
+        "ecademy:roles/professional-end-user/industry",
+        "ecademy:roles/consulting-engineer/industry"
+      ],
+      "jcr:uuid": "3c09a42f-ba34-45b3-8533-5efb6bb64f62",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "difficulty": "basic",
+      "cq:lastModifiedBy": "911509"
+    },
+    "topic-completion_msm_moved": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "909657",
+      "jcr:created": "Thu Oct 12 2017 15:40:22 GMT+0200"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Wed Sep 28 2016 10:20:41 GMT+0200"
+    },
+    "topic-welcome_msm_moved": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "909657",
+      "jcr:created": "Thu Oct 12 2017 15:41:12 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Wed Sep 28 2016 10:20:41 GMT+0200"
+    },
+    "quiz_msm_moved": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "909657",
+      "jcr:created": "Thu Oct 12 2017 15:38:21 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Wed Sep 28 2016 10:20:41 GMT+0200"
+    },
+    "optimising-a-temperature-control-system": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:20:42 GMT+0200"
+    },
+    "pump-audits-and-load-profiles": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:20:42 GMT+0200"
+    },
+    "pump-selection-for-tough-conditions": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:20:42 GMT+0200"
+    }
+  },
+  "the-basics-of-desalination": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Wed Sep 28 2016 10:22:56 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "The basics of desalination ",
+      "cq:lastReplicationAction": "Activate",
+      "jcr:versionHistory": "8870b70f-c63c-4e87-ad14-697bebc5ee3e",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "cq:lastReplicatedBy": "52036",
+      "jcr:predecessors": [
+        "7eb2c1ff-f83f-408f-98a3-ee46af6788fe"
+      ],
+      "jcr:created": "Wed Sep 28 2016 10:22:56 GMT+0200",
+      "cq:lastReplicated": "Thu Feb 08 2018 10:48:47 GMT+0100",
+      "cq:lastModified": "Wed Sep 28 2016 10:48:33 GMT+0200",
+      "jcr:description": "This topic will provide you with an understanding of how desalination systems work, why commissioning pays off and how to turn brine into pure energy.",
+      "jcr:baseVersion": "7eb2c1ff-f83f-408f-98a3-ee46af6788fe",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "grundfos:page-category/industries"
+      ],
+      "jcr:uuid": "ab58fbb3-20b9-424f-b8f4-3ddf0e0c95d9",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "cq:lastModifiedBy": "52140"
+    },
+    "topic-completion_msm_moved": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "909657",
+      "jcr:created": "Fri Oct 13 2017 09:38:14 GMT+0200"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:45:01 GMT+0200"
+    },
+    "topic-welcome_msm_moved": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "909657",
+      "jcr:created": "Fri Oct 13 2017 09:38:15 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:45:01 GMT+0200"
+    },
+    "quiz_msm_moved": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "909657",
+      "jcr:created": "Fri Oct 13 2017 09:38:13 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Wed Sep 28 2016 10:22:57 GMT+0200"
+    },
+    "introduction-to-desalination-systems": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:23:52 GMT+0200"
+    },
+    "the-five-steps-of-commissioning": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:23:52 GMT+0200"
+    },
+    "how-to-energy-optimise-a-desalination-system": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:23:52 GMT+0200"
+    }
+  },
+  "groundwater-pumping": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Wed Sep 28 2016 08:39:01 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "Groundwater Pumping",
+      "cq:lastReplicationAction": "Activate",
+      "jcr:versionHistory": "3ab16310-5688-4c56-a278-c57df5700dc6",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "cq:lastReplicatedBy": "52036",
+      "jcr:predecessors": [
+        "95b904c1-8962-4309-814d-f536f3a14b8c"
+      ],
+      "jcr:created": "Wed Sep 28 2016 08:39:01 GMT+0200",
+      "cq:lastReplicated": "Thu Feb 08 2018 10:48:53 GMT+0100",
+      "cq:lastModified": "Wed Sep 28 2016 10:47:55 GMT+0200",
+      "jcr:description": "This topic will provide you with all you need to know about groundwater intake, including pump sizing, efficiency optimisation, performance regulation and life-extending precautions.   ",
+      "jcr:baseVersion": "95b904c1-8962-4309-814d-f536f3a14b8c",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "grundfos:page-category/industries"
+      ],
+      "jcr:uuid": "4491c9a5-dd2e-4d24-8677-56edda53923b",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "cq:lastModifiedBy": "52140"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:44:43 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:44:43 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Wed Sep 28 2016 08:39:01 GMT+0200"
+    },
+    "introduction-to-groundwater-pumping": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:18:02 GMT+0200"
+    },
+    "pump-sizing-in-groundwater-applications": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:18:02 GMT+0200"
+    },
+    "how-to-ensure-continious-high-efficiency-in-water-intake-applications": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:18:02 GMT+0200"
+    },
+    "performance-regulation-in-groundwater-applications": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:18:02 GMT+0200"
+    },
+    "how-to-extend-pump-life": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:18:02 GMT+0200"
+    }
+  },
+  "wastewater-transport": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Wed Sep 28 2016 10:25:22 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "Wastewater transport",
+      "cq:lastReplicationAction": "Activate",
+      "jcr:versionHistory": "56f87a82-eed0-4eca-bb3e-62b314b72c3a",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "cq:lastReplicatedBy": "911509",
+      "jcr:predecessors": [
+        "d4e0a09a-bf34-4b19-afab-a424812d4fec"
+      ],
+      "jcr:created": "Wed Sep 28 2016 10:25:22 GMT+0200",
+      "cq:lastReplicated": "Wed Nov 21 2018 09:07:53 GMT+0100",
+      "cq:lastModified": "Wed Nov 21 2018 09:07:40 GMT+0100",
+      "jcr:description": "This topic will take you underground with a focus on wastewater pits and how to ensure optimum performance by means of correct dimensioning and design. ",
+      "jcr:baseVersion": "d4e0a09a-bf34-4b19-afab-a424812d4fec",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "grundfos:page-category/industries",
+        "ecademy:roles/consulting-engineer/municipal-wastewater",
+        "grundfos:page-category/others",
+        "ecademy:roles/professional-end-user/municipal-wastewater"
+      ],
+      "jcr:uuid": "13fd3b99-0e33-4462-8f2e-8e60b6bbbb4b",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "difficulty": "basic",
+      "cq:lastModifiedBy": "911509"
+    },
+    "topic-completion_msm_moved": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "909657",
+      "jcr:created": "Thu Oct 12 2017 11:26:19 GMT+0200"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:45:50 GMT+0200"
+    },
+    "topic-welcome_msm_moved": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "909657",
+      "jcr:created": "Thu Oct 12 2017 11:26:49 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:45:50 GMT+0200"
+    },
+    "quiz_msm_moved": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "909657",
+      "jcr:created": "Thu Oct 12 2017 11:25:37 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Wed Sep 28 2016 10:25:22 GMT+0200"
+    },
+    "wastewater-types-and-the-right-choice-of-pump": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:26:19 GMT+0200"
+    },
+    "dimensioning-of-wastewater-pits": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:26:19 GMT+0200"
+    },
+    "-a-closer-look-at-the-pit-components-and-installation-process": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:26:19 GMT+0200"
+    },
+    "how-the-s-tube-impeller-helps-counter-the-wastewater-challenges": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:26:19 GMT+0200"
+    }
+  },
+  "basic-hydraulics-and-pump-performance": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Mon Apr 11 2016 12:47:21 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "Basic hydraulics and pump performance",
+      "cq:lastReplicationAction": "Activate",
+      "jcr:versionHistory": "cf570a8e-12de-4d0e-b3e2-fdccd9a5ae63",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "cq:lastReplicatedBy": "52036",
+      "jcr:predecessors": [
+        "23290161-af45-4b4a-bc98-02140c3dbea1"
+      ],
+      "jcr:created": "Mon Apr 11 2016 12:47:21 GMT+0200",
+      "cq:lastReplicated": "Tue Nov 27 2018 09:48:45 GMT+0100",
+      "cq:lastModified": "Thu Oct 25 2018 14:12:47 GMT+0200",
+      "jcr:description": "This topic will introduce you to the basics of hydraulics. It will also help you better understand and monitor pump performance.",
+      "jcr:baseVersion": "23290161-af45-4b4a-bc98-02140c3dbea1",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "ecademy:roles/consulting-engineer/agriculture/agriculture-irrigation",
+        "ecademy:roles/consulting-engineer/agriculture/turf-irrigation",
+        "grundfos:page-category/others",
+        "ecademy:roles/professional-end-user/agriculture/agriculture-irrigation",
+        "ecademy:roles/professional-end-user/agriculture/turf-irrigation"
+      ],
+      "jcr:uuid": "18836085-39d3-4133-943b-3a013a7de041",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "difficulty": "basic",
+      "cq:lastModifiedBy": "911509"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 12:47:21 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 12:47:21 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 12:47:21 GMT+0200"
+    },
+    "basic-hydraulics": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 12:47:39 GMT+0200"
+    },
+    "understanding-friction-loss": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 12:47:40 GMT+0200"
+    },
+    "cavitation-its-effects-on-pumps": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 12:47:39 GMT+0200"
+    },
+    "calculating-pump-efficiency": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 12:47:39 GMT+0200"
+    },
+    "reasons-for-reduction-in-pump-performance": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 12:47:39 GMT+0200"
+    }
+  },
+  "motors-and-motor-protection": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Mon Apr 11 2016 15:36:43 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "Motors and motor protection",
+      "cq:lastReplicationAction": "Activate",
+      "jcr:versionHistory": "a83a3eaf-8214-46b8-a3f1-0d769322c228",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "cq:lastReplicatedBy": "52036",
+      "jcr:predecessors": [
+        "ec14beca-602b-4ddf-af19-b80d88036b73"
+      ],
+      "jcr:created": "Mon Apr 11 2016 15:36:43 GMT+0200",
+      "cq:lastReplicated": "Thu Feb 08 2018 10:49:32 GMT+0100",
+      "cq:lastModified": "Thu Oct 25 2018 14:30:13 GMT+0200",
+      "jcr:description": "This topic will help you better understand the motors used in pumps and how to protect them to prolong their life.",
+      "jcr:baseVersion": "ec14beca-602b-4ddf-af19-b80d88036b73",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "ecademy:roles/consulting-engineer/agriculture/agriculture-irrigation",
+        "ecademy:roles/consulting-engineer/agriculture/turf-irrigation",
+        "grundfos:page-category/others"
+      ],
+      "jcr:uuid": "a2ad2d24-7017-4f7d-aa53-910eee13786c",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "difficulty": "basic",
+      "cq:lastModifiedBy": "911509"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:36:43 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:36:43 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:36:43 GMT+0200"
+    },
+    "electric-motors": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:37:11 GMT+0200"
+    },
+    "motor-protection-and-the-common-causes-of-faults-in-motors": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:37:11 GMT+0200"
+    },
+    "dedicated-motor-protection-device": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:37:11 GMT+0200"
+    }
+  },
+  "pump-sizing": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Mon Apr 11 2016 15:36:16 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "Pump sizing",
+      "cq:lastReplicationAction": "Activate",
+      "jcr:versionHistory": "900c1b9b-cd4e-41c6-871f-775e50f908e1",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "cq:lastReplicatedBy": "52036",
+      "jcr:predecessors": [
+        "4287dd24-8335-4c4e-88ef-0bf402e89604"
+      ],
+      "jcr:created": "Mon Apr 11 2016 15:36:16 GMT+0200",
+      "cq:lastReplicated": "Thu Feb 08 2018 10:49:45 GMT+0100",
+      "cq:lastModified": "Wed Sep 28 2016 10:47:31 GMT+0200",
+      "jcr:description": "Learn how to identify the pump size required for an irrigation zone.",
+      "jcr:baseVersion": "4287dd24-8335-4c4e-88ef-0bf402e89604",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "ecademy:roles/consulting-engineer/agriculture/agriculture-irrigation",
+        "ecademy:roles/consulting-engineer/agriculture/turf-irrigation",
+        "grundfos:page-category/others"
+      ],
+      "jcr:uuid": "60483271-826b-4570-98b5-191b3a0bee9f",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "cq:lastModifiedBy": "52140"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:36:16 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:36:16 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:36:16 GMT+0200"
+    },
+    "calculating-pump-flow": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:40:57 GMT+0200"
+    },
+    "learning-to-calculate-how-much-head-the-pump-must-generate": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:40:57 GMT+0200"
+    },
+    "reading-a-pump-curve": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:40:57 GMT+0200"
+    },
+    "understanding-a-groundwater-well": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:40:57 GMT+0200"
+    }
+  },
+  "monitoring-and-controls": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Mon Apr 11 2016 15:35:55 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "Monitoring and controls",
+      "cq:lastReplicationAction": "Activate",
+      "jcr:versionHistory": "a9a00a75-8315-46d1-bab5-fa896f496303",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "cq:lastReplicatedBy": "52036",
+      "jcr:predecessors": [
+        "0c787400-11bb-4067-9377-b2c5a25ab7d8"
+      ],
+      "jcr:created": "Mon Apr 11 2016 15:35:55 GMT+0200",
+      "cq:lastReplicated": "Thu Feb 08 2018 10:49:56 GMT+0100",
+      "cq:lastModified": "Wed Sep 28 2016 10:47:31 GMT+0200",
+      "jcr:description": "This topic will help you understand how monitoring and control devices generate high efficiency in complex irrigation systems.",
+      "jcr:baseVersion": "0c787400-11bb-4067-9377-b2c5a25ab7d8",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "ecademy:roles/consulting-engineer/agriculture/agriculture-irrigation",
+        "ecademy:roles/consulting-engineer/agriculture/turf-irrigation",
+        "grundfos:page-category/others"
+      ],
+      "jcr:uuid": "df66bff9-fca1-4245-a30b-f4057dfa7199",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "cq:lastModifiedBy": "52140"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:35:55 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:35:55 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:35:55 GMT+0200"
+    },
+    "variable-frequency-drives-vfds": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:35:55 GMT+0200"
+    },
+    "benefits-of-variable-frequency-drives-vfds": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:35:55 GMT+0200"
+    },
+    "using-controls-and-monitoring-to-optimise-the-pump-operation": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:35:55 GMT+0200"
+    }
+  },
+  "scala2": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Mon Apr 11 2016 15:49:39 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "SCALA2 water booster pump",
+      "cq:lastReplicationAction": "Activate",
+      "jcr:versionHistory": "350fbab4-7adf-4313-acad-a8bcf47c1d28",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "cq:lastReplicatedBy": "52036",
+      "jcr:predecessors": [
+        "5f490a68-d07e-44b5-a612-45f271d20ea8"
+      ],
+      "jcr:created": "Mon Apr 11 2016 15:49:39 GMT+0200",
+      "cq:lastReplicated": "Thu Feb 08 2018 11:20:48 GMT+0100",
+      "cq:lastModified": "Thu Feb 08 2018 11:20:20 GMT+0100",
+      "jcr:description": "This topic will introduce you to the applications and benefits of the water booster pump, SCALA2, including the concept of perfect water pressure.",
+      "jcr:baseVersion": "5f490a68-d07e-44b5-a612-45f271d20ea8",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "ecademy:roles/installer/domestic-buildings/boosting",
+        "grundfos:page-category/others",
+        "ecademy:roles/wholesaler-distributor/domestic-buildings"
+      ],
+      "jcr:uuid": "e62ad8de-1487-4b7e-9185-8a722d339704",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "difficulty": "basic",
+      "cq:lastModifiedBy": "52036"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:43:58 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:43:58 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:49:39 GMT+0200"
+    },
+    "Features-and-benefits-of-SCALA2": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:50:06 GMT+0200"
+    },
+    "Perfect-water-pressure": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:50:06 GMT+0200"
+    },
+    "Easy-installation": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:50:06 GMT+0200"
+    }
+  },
+  "grundfos-autoadapt0": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Mon Apr 11 2016 12:44:43 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "Grundfos AUTOADAPT",
+      "cq:lastReplicationAction": "Activate",
+      "jcr:versionHistory": "42caf124-a76f-4f5c-86bb-778c9b317cf0",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "cq:lastReplicatedBy": "52036",
+      "jcr:predecessors": [
+        "d00b2d70-a920-4f16-8e70-15e309d0fff8"
+      ],
+      "jcr:created": "Mon Apr 11 2016 12:44:43 GMT+0200",
+      "cq:lastReplicated": "Thu Feb 08 2018 10:50:02 GMT+0100",
+      "cq:lastModified": "Mon Apr 11 2016 12:44:43 GMT+0200",
+      "jcr:baseVersion": "d00b2d70-a920-4f16-8e70-15e309d0fff8",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "ecademy:roles/installer/domestic-buildings/heating-dbs",
+        "grundfos:page-category/others",
+        "ecademy:roles/consulting-engineer/commercial-buildings/heating-cbs"
+      ],
+      "jcr:uuid": "ea133795-7caf-4c0d-a6d8-7de145f7eca9",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "cq:lastModifiedBy": "52140"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 12:44:43 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 12:44:43 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 12:44:43 GMT+0200"
+    },
+    "introducing-grundfos-autoadapt": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:26:03 GMT+0200"
+    },
+    "why-regulated-circulators": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:26:23 GMT+0200"
+    },
+    "how-autoadapt-works": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:26:03 GMT+0200"
+    },
+    "the-grundfos-autoadapt-algorithm": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:26:04 GMT+0200"
+    },
+    "installation-and-commissioning": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:26:03 GMT+0200"
+    },
+    "autoadapt-test-results": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:26:03 GMT+0200"
+    },
+    "autoadapt-in-depth": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:26:03 GMT+0200"
+    }
+  },
+  "grundfos-comfort": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Mon Apr 11 2016 15:26:23 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "Grundfos Comfort",
+      "cq:lastReplicationAction": "Activate",
+      "jcr:versionHistory": "754bc5f7-5488-461f-b59e-8439e99d3ebd",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "cq:lastReplicatedBy": "52036",
+      "jcr:predecessors": [
+        "e79ed9f1-74d4-4359-87b8-af4c69744d7d"
+      ],
+      "jcr:created": "Mon Apr 11 2016 15:26:23 GMT+0200",
+      "cq:lastReplicated": "Thu Feb 08 2018 10:50:07 GMT+0100",
+      "cq:lastModified": "Mon Apr 11 2016 15:26:23 GMT+0200",
+      "jcr:description": "Grundfos COMFORT is our range of hot water supply systems for domestic applications. In this topic you will dive into COMFORT and all the advanced technologies it’s built on.",
+      "jcr:baseVersion": "e79ed9f1-74d4-4359-87b8-af4c69744d7d",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "ecademy:roles/installer/domestic-buildings/hotwater-recirculation",
+        "grundfos:page-category/others"
+      ],
+      "jcr:uuid": "e20a52af-fee7-4c2a-bea7-14728a46f9cc",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "cq:lastModifiedBy": "52140"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:26:23 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:26:23 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:26:23 GMT+0200"
+    },
+    "introducing-grundfos-comfort": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:27:01 GMT+0200"
+    },
+    "homeowner-benefits": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:27:01 GMT+0200"
+    },
+    "permanent-magnet-motor-technology": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:27:01 GMT+0200"
+    },
+    "calender-controlled-operation": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:27:01 GMT+0200"
+    },
+    "installation-and-commissioning": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:27:01 GMT+0200"
+    },
+    "features-checklist": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:27:01 GMT+0200"
+    },
+    "autoadapt-in-brief": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:27:00 GMT+0200"
+    },
+    "about-hot-water-recirculation-systems": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:27:00 GMT+0200"
+    },
+    "calculate-your-savings": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:27:01 GMT+0200"
+    }
+  },
+  "the-grundfos-sololift2": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Mon Apr 11 2016 15:52:36 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "The Grundfos SOLOLIFT2",
+      "cq:lastReplicationAction": "Activate",
+      "jcr:versionHistory": "6e0d1c76-6298-40f8-8476-223b82110c2c",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "cq:lastReplicatedBy": "52036",
+      "jcr:predecessors": [
+        "621fbf88-a7e3-4086-8920-95c7fbb119d0"
+      ],
+      "jcr:created": "Mon Apr 11 2016 15:52:36 GMT+0200",
+      "cq:lastReplicated": "Thu Feb 08 2018 10:50:12 GMT+0100",
+      "cq:lastModified": "Mon Apr 11 2016 15:52:36 GMT+0200",
+      "jcr:description": "The Grundfos SOLOLIFT2 is a versatile range of lifting stations for private homes and light commercial buildings. This topic introduces you to the range and looks at its main features and benefits.",
+      "jcr:baseVersion": "621fbf88-a7e3-4086-8920-95c7fbb119d0",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "ecademy:roles/installer/domestic-buildings/lifting",
+        "grundfos:page-category/others"
+      ],
+      "jcr:uuid": "02d69a0c-83e6-4fd5-813b-89312b3d8135",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "cq:lastModifiedBy": "52140"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:52:36 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:52:36 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:52:36 GMT+0200"
+    },
+    "introducing-the-grundfos-sololift2": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:53:21 GMT+0200"
+    },
+    "the-sololift2-range": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:53:21 GMT+0200"
+    },
+    "the-sololift2-c-3": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:53:21 GMT+0200"
+    },
+    "the-sololift2-wc-3": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:53:21 GMT+0200"
+    },
+    "homeowner-benfits": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:53:20 GMT+0200"
+    },
+    "wc-3-features-overview": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:53:21 GMT+0200"
+    },
+    "installation-and-commissioning": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:53:21 GMT+0200"
+    },
+    "quick-and-convinient-servicing": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:53:21 GMT+0200"
+    }
+  },
+  "the-grundfos-magna3": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Mon Apr 11 2016 15:50:57 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "The Grundfos MAGNA3",
+      "cq:lastReplicationAction": "Activate",
+      "jcr:versionHistory": "8ae6811a-0730-4bd1-a61e-453b553114bd",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "cq:lastReplicatedBy": "52036",
+      "jcr:predecessors": [
+        "47cd29c4-4cd9-4cae-a8d2-bc8a2a0ed953"
+      ],
+      "jcr:created": "Mon Apr 11 2016 15:50:57 GMT+0200",
+      "cq:lastReplicated": "Thu Feb 08 2018 10:50:18 GMT+0100",
+      "cq:lastModified": "Mon Apr 11 2016 15:50:57 GMT+0200",
+      "jcr:description": "Complete this topic to learn everything you need to know about the Grundfos MAGNA3 circulating pump, including technical details and installer and homeowner benefits.",
+      "jcr:baseVersion": "47cd29c4-4cd9-4cae-a8d2-bc8a2a0ed953",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "ecademy:roles/installer/domestic-buildings/heating-dbs",
+        "grundfos:page-category/others"
+      ],
+      "jcr:uuid": "9d6244bb-1c42-409c-941d-1d2b72476b94",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "cq:lastModifiedBy": "52140"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:50:58 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:50:58 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:50:58 GMT+0200"
+    },
+    "introducing-the-grundfos-magna3": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:52:02 GMT+0200"
+    },
+    "designed-for-efficiency": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:52:01 GMT+0200"
+    },
+    "owner-benefits": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:52:02 GMT+0200"
+    },
+    "installation-and-commissioning": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:52:01 GMT+0200"
+    },
+    "the-magna3-user-interface": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:52:02 GMT+0200"
+    },
+    "operation-and-control-modes": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:52:02 GMT+0200"
+    },
+    "features-checklist": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:52:01 GMT+0200"
+    },
+    "about-wet-runner-circulators": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:52:01 GMT+0200"
+    },
+    "efficiency-and-the-eei": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:52:01 GMT+0200"
+    }
+  },
+  "pressure-boosters": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Mon Apr 11 2016 15:37:36 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "Pressure Boosters",
+      "cq:lastReplicationAction": "Activate",
+      "jcr:versionHistory": "24518f33-3a4a-45f6-9618-1b0a058d47fc",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "cq:lastReplicatedBy": "52036",
+      "jcr:predecessors": [
+        "0c3a4219-4e23-450f-a1b2-cc32f201ad05"
+      ],
+      "jcr:created": "Mon Apr 11 2016 15:37:36 GMT+0200",
+      "cq:lastReplicated": "Thu Feb 08 2018 10:50:23 GMT+0100",
+      "cq:lastModified": "Mon Apr 11 2016 15:37:36 GMT+0200",
+      "jcr:description": "Get up to speed on Grundfos CM Booster and MQ boosters, including the advanced CME Booster with a variable speed drive for constant pressure comfort.",
+      "jcr:baseVersion": "0c3a4219-4e23-450f-a1b2-cc32f201ad05",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "ecademy:roles/installer/domestic-buildings/boosting",
+        "grundfos:page-category/others"
+      ],
+      "jcr:uuid": "dc09989a-502b-4d73-9dd7-f0bde6ad88a8",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "cq:lastModifiedBy": "52140"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:37:36 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:37:36 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:37:36 GMT+0200"
+    },
+    "introducing-grundfos-cm-pressure-boosters": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:38:09 GMT+0200"
+    },
+    "the-grundfos-cm-booster-with-pm1": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:38:10 GMT+0200"
+    },
+    "the-grundfos-cm-booster-with-pm2": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:38:10 GMT+0200"
+    },
+    "the-grundfos-cme-booster": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:38:10 GMT+0200"
+    },
+    "the-grundfos-mq-booster": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:38:10 GMT+0200"
+    },
+    "inside-the-grundfos-mq": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:38:09 GMT+0200"
+    },
+    "benefits-summary": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:38:09 GMT+0200"
+    }
+  },
+  "tools-for-installers": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Mon Apr 11 2016 15:55:07 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "Tools for Installers",
+      "cq:lastReplicationAction": "Activate",
+      "jcr:versionHistory": "26e9ef34-e31d-4832-b1e2-b6034fd617f6",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "cq:lastReplicatedBy": "52036",
+      "jcr:predecessors": [
+        "60448c37-a696-46d6-af92-57c0441c2761"
+      ],
+      "jcr:created": "Mon Apr 11 2016 15:55:07 GMT+0200",
+      "cq:lastReplicated": "Thu Feb 08 2018 10:50:28 GMT+0100",
+      "cq:lastModified": "Mon Apr 11 2016 15:55:07 GMT+0200",
+      "jcr:description": "Grundfos provides installers, building operators and homeowners with a range of tools that save time and money. You can explore some of these under this topic.",
+      "jcr:baseVersion": "60448c37-a696-46d6-af92-57c0441c2761",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "ecademy:roles/installer/domestic-buildings",
+        "grundfos:page-category/others"
+      ],
+      "jcr:uuid": "2766c44e-fa36-41b5-ad48-7bf3a55bb231",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "cq:lastModifiedBy": "52140"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:55:07 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:55:08 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:55:08 GMT+0200"
+    },
+    "handbook-heating-systems-in-one-and-two-family-houses": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:55:38 GMT+0200"
+    },
+    "the-grundfos-product-center": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:55:38 GMT+0200"
+    },
+    "installer-companion-app": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:55:38 GMT+0200"
+    }
+  },
+  "water-wells-and-other-groundwater-applications": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Mon Apr 11 2016 16:00:06 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "Water Wells and other Groundwater Applications",
+      "jcr:versionHistory": "d1836899-3ed1-4ae0-8a97-feb6eec5f826",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "jcr:predecessors": [
+        "25f19f02-53bd-4b12-854b-34081bc0763c"
+      ],
+      "jcr:created": "Mon Apr 11 2016 16:00:06 GMT+0200",
+      "cq:lastModified": "Mon Apr 11 2016 16:00:06 GMT+0200",
+      "jcr:description": "Grundfos supplies a broad range of submersible pumps for water wells and other groundwater applications. Complete this topic for an introduction to our SP/SPA, SQ and SQE water well pumps.",
+      "jcr:baseVersion": "25f19f02-53bd-4b12-854b-34081bc0763c",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "ecademy:roles/installer/domestic-buildings",
+        "grundfos:page-category/others"
+      ],
+      "jcr:uuid": "fb6763e2-93bb-4f11-84c5-9c8cede757d3",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "cq:lastModifiedBy": "52140"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 16:00:06 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 16:00:07 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 16:00:07 GMT+0200"
+    },
+    "introducing-the-grundfos-submersible-range": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 16:00:31 GMT+0200"
+    },
+    "benefits-summary": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 16:00:31 GMT+0200"
+    }
+  },
+  "the-grundfos-unilift": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Mon Apr 11 2016 15:54:00 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "The Grundfos Unilift",
+      "jcr:versionHistory": "b1c61e33-2285-4421-8b04-f8fff099b16c",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "jcr:predecessors": [
+        "10cc9673-fd2f-4d1b-8f6e-3f982adefc11"
+      ],
+      "jcr:created": "Mon Apr 11 2016 15:54:00 GMT+0200",
+      "cq:lastModified": "Mon Apr 11 2016 15:54:00 GMT+0200",
+      "jcr:description": "Discover how the Grundfos Unilift KP, AP/AP-B and CC meets drainage-related needs in a wide range of applications for domestic housing.",
+      "jcr:baseVersion": "10cc9673-fd2f-4d1b-8f6e-3f982adefc11",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "ecademy:roles/installer/domestic-buildings/drainage",
+        "grundfos:page-category/others"
+      ],
+      "jcr:uuid": "ee982bda-11a3-4614-a71c-316388283a8e",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "cq:lastModifiedBy": "52140"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:54:00 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:54:00 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:54:00 GMT+0200"
+    },
+    "introducing-the-grundfos-unilift-range": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:54:28 GMT+0200"
+    },
+    "benefits-summary": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:54:28 GMT+0200"
+    }
+  },
+  "rainwater-harvesting": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Mon Apr 11 2016 15:41:18 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "Rainwater Harvesting",
+      "jcr:versionHistory": "e3e69af9-629e-4812-b543-1da7598839f8",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "jcr:predecessors": [
+        "9e9b85a3-b3f3-4911-afc0-4d1816d7665c"
+      ],
+      "jcr:created": "Mon Apr 11 2016 15:41:18 GMT+0200",
+      "cq:lastModified": "Mon Apr 11 2016 15:41:18 GMT+0200",
+      "jcr:baseVersion": "9e9b85a3-b3f3-4911-afc0-4d1816d7665c",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "ecademy:roles/installer/domestic-buildings/rainwater-harvesting",
+        "grundfos:page-category/others"
+      ],
+      "jcr:uuid": "447f929d-e49d-496a-8ae2-4ac2da522b8c",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "cq:lastModifiedBy": "52140"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:41:18 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:41:18 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:41:19 GMT+0200"
+    },
+    "introductions-to-the-grundfos-sb-range": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:41:48 GMT+0200"
+    },
+    "benefit-summary": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:41:48 GMT+0200"
+    }
+  },
+  "heating": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Mon Apr 11 2016 15:29:10 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "Heating",
+      "jcr:versionHistory": "5caeb3de-3684-4358-87a5-8c6ab0089261",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "jcr:predecessors": [
+        "2f8045a4-0cef-48df-b948-05033de8564f"
+      ],
+      "jcr:created": "Mon Apr 11 2016 15:29:10 GMT+0200",
+      "cq:lastModified": "Mon Apr 11 2016 15:29:10 GMT+0200",
+      "jcr:description": "Learn about the different ways heating circulators are used in domestic homes, while getting up to speed on circulator control modes and the Grundfos circulator range.",
+      "jcr:baseVersion": "2f8045a4-0cef-48df-b948-05033de8564f",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "ecademy:roles/wholesaler-distributor/domestic-buildings/heating-dbs",
+        "ecademy:roles/installer/domestic-buildings/heating-dbs",
+        "grundfos:page-category/others"
+      ],
+      "jcr:uuid": "a824a3e8-f06a-4d58-89d7-34518f731e8f",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "cq:lastModifiedBy": "52140"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:38:21 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:38:21 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:29:10 GMT+0200"
+    },
+    "introducing-heating": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:29:29 GMT+0200"
+    },
+    "alpha2-introduction": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:29:29 GMT+0200"
+    }
+  },
+  "hot-water-recirculation": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Mon Apr 11 2016 15:31:00 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "Hot Water Recirculation",
+      "jcr:versionHistory": "235e0f24-7217-4ceb-bdb2-0cfaced17231",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "jcr:predecessors": [
+        "d5a14d70-3c00-4f8e-94d1-e94eed6c492c"
+      ],
+      "jcr:created": "Mon Apr 11 2016 15:31:00 GMT+0200",
+      "cq:lastModified": "Mon Apr 11 2016 15:31:00 GMT+0200",
+      "jcr:description": "This topic provides an introduction to domestic hot water – or DHW – systems, presents the Grundfos Comfort range of hot water re-circulation pumps, and explains how Comfort range pumps are installed and commissioned.",
+      "jcr:baseVersion": "d5a14d70-3c00-4f8e-94d1-e94eed6c492c",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "ecademy:roles/wholesaler-distributor/domestic-buildings/hotwater-recirculation",
+        "ecademy:roles/installer/domestic-buildings/hotwater-recirculation",
+        "grundfos:page-category/others"
+      ],
+      "jcr:uuid": "db1cf4b8-973b-418a-8d11-2bcc1e7c0295",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "cq:lastModifiedBy": "52140"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:31:01 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:31:01 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:31:01 GMT+0200"
+    },
+    "hot-water-introduction": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:31:44 GMT+0200"
+    },
+    "grundfos-comfort-introduction": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:31:44 GMT+0200"
+    },
+    "grundfos-comfort-installation-and-commissioning": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:31:44 GMT+0200"
+    }
+  },
+  "macerators": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Mon Apr 11 2016 15:33:26 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "Macerators",
+      "jcr:versionHistory": "a5fa45a2-d4c4-4e52-b152-570ab5700ffa",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "jcr:predecessors": [
+        "241c9262-4809-479b-935d-fcc6dff6026b"
+      ],
+      "jcr:created": "Mon Apr 11 2016 15:33:26 GMT+0200",
+      "cq:lastModified": "Mon Apr 11 2016 15:33:26 GMT+0200",
+      "jcr:description": "Find out how macerators are used in the home, and learn all about the Grundfos Sololift2 range, including how these macerators are installed and commissioned.",
+      "jcr:baseVersion": "241c9262-4809-479b-935d-fcc6dff6026b",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "ecademy:roles/wholesaler-distributor/domestic-buildings/lifting",
+        "ecademy:roles/installer/domestic-buildings/lifting",
+        "grundfos:page-category/others"
+      ],
+      "jcr:uuid": "ebf5df02-8615-4cb5-a089-763be6d35b3d",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "cq:lastModifiedBy": "52140"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:33:26 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:33:26 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:33:26 GMT+0200"
+    },
+    "macerators-introduction": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:34:02 GMT+0200"
+    },
+    "introducing-sololift2": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:34:02 GMT+0200"
+    },
+    "sololift2-installation-and-commisioning": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:34:02 GMT+0200"
+    }
+  },
+  "drainage": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Mon Apr 11 2016 15:24:25 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "Drainage",
+      "jcr:versionHistory": "d6fb5777-cfd5-4eb9-909e-da59b93cb56d",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "jcr:predecessors": [
+        "b07c83e7-afa9-4020-b1dd-d85c78c1ea5f"
+      ],
+      "jcr:created": "Mon Apr 11 2016 15:24:25 GMT+0200",
+      "cq:lastModified": "Mon Apr 11 2016 15:24:25 GMT+0200",
+      "jcr:description": "Drainage pumps are used to empty indoor and outdoor areas of water and other liquids. This topic explains how they work and introduces the Grundfos range of drainage pumps.",
+      "jcr:baseVersion": "b07c83e7-afa9-4020-b1dd-d85c78c1ea5f",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "ecademy:roles/wholesaler-distributor/domestic-buildings/drainage",
+        "ecademy:roles/installer/domestic-buildings/drainage",
+        "grundfos:page-category/others"
+      ],
+      "jcr:uuid": "b1dae449-7a09-4b97-b692-3bf8ba37b9e0",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "cq:lastModifiedBy": "52140"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:24:25 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:24:25 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:24:25 GMT+0200"
+    },
+    "introducing-drainage": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:24:50 GMT+0200"
+    },
+    "introducing-unilift": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:24:51 GMT+0200"
+    },
+    "conlift-introduction": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:24:50 GMT+0200"
+    }
+  },
+  "boosting": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Mon Apr 11 2016 15:23:19 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "Boosting",
+      "jcr:versionHistory": "5bc2dda7-3143-4487-b6e6-67202600224b",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "jcr:predecessors": [
+        "cfbfc926-ca1e-43c0-9222-18305c08e749"
+      ],
+      "jcr:created": "Mon Apr 11 2016 15:23:19 GMT+0200",
+      "cq:lastModified": "Mon Apr 11 2016 15:23:19 GMT+0200",
+      "jcr:description": "Find out how booster pumps are used in homes and other small buildings and learn more about the Grundfos boosters.",
+      "jcr:baseVersion": "cfbfc926-ca1e-43c0-9222-18305c08e749",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "ecademy:roles/wholesaler-distributor/domestic-buildings/boosting",
+        "ecademy:roles/installer/domestic-buildings/boosting",
+        "grundfos:page-category/others"
+      ],
+      "jcr:uuid": "8512660e-4336-43ed-976b-f8fcfb25ae0b",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "cq:lastModifiedBy": "52140"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:23:19 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:23:19 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:23:19 GMT+0200"
+    },
+    "introducing-boosting": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:23:50 GMT+0200"
+    },
+    "mq-introduction": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:23:50 GMT+0200"
+    },
+    "mq-installation-guide": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:23:50 GMT+0200"
+    }
+  },
+  "alpha2": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Mon Apr 11 2016 15:21:30 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "ALPHA2",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "jcr:created": "Mon Apr 11 2016 15:21:30 GMT+0200",
+      "cq:lastModified": "Mon Apr 11 2016 15:21:30 GMT+0200",
+      "jcr:description": "The Alpha2 topic teaches you everything you need to know about this classic small circulator - from benefits to installation and control modes.",
+      "cq:tags": [
+        "ecademy:roles/installer/domestic-buildings/heating-dbs",
+        "ecademy:roles/wholesaler-distributor/domestic-buildings/heating-dbs",
+        "grundfos:page-category/others"
+      ],
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "cq:lastModifiedBy": "52140"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:39:30 GMT+0200"
+    },
+    "topic-completion-mail": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:39:30 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:21:30 GMT+0200"
+    },
+    "alpha2-introduction": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:21:30 GMT+0200"
+    },
+    "alpha2-replacement": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:21:30 GMT+0200"
+    },
+    "alpha2-plug-assembly": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:21:30 GMT+0200"
+    },
+    "alpha2-control-models": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:21:30 GMT+0200"
+    },
+    "alpha2-homeowner-benefits": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:21:30 GMT+0200"
+    },
+    "alpha2-trouble-free-installation": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:21:30 GMT+0200"
+    }
+  },
+  "MQ": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Mon Apr 11 2016 12:46:10 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "The Grundfos MQ",
+      "cq:lastReplicationAction": "Activate",
+      "jcr:versionHistory": "8fdd0543-73a5-4a2a-bf96-18c28ce65442",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "cq:lastReplicatedBy": "55744",
+      "jcr:predecessors": [
+        "73398594-82a1-4f1b-a1d2-cf0a5a7640c1"
+      ],
+      "jcr:created": "Mon Apr 11 2016 12:46:10 GMT+0200",
+      "cq:lastReplicated": "Wed Oct 26 2016 15:57:03 GMT+0200",
+      "cq:lastModified": "Wed Oct 26 2016 15:57:00 GMT+0200",
+      "jcr:baseVersion": "73398594-82a1-4f1b-a1d2-cf0a5a7640c1",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "ecademy:roles/installer",
+        "ecademy:roles/wholesaler-distributor",
+        "grundfos:page-category/others"
+      ],
+      "jcr:uuid": "27997ab7-4d60-4183-a47d-91135d9c26ab",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "cq:lastModifiedBy": "55744"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:43:09 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:43:09 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 12:46:10 GMT+0200"
+    },
+    "general-introduction": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 12:46:30 GMT+0200"
+    },
+    "mq-introduction": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 12:46:30 GMT+0200"
+    },
+    "basic-pump-operation": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 12:46:30 GMT+0200"
+    },
+    "mq-booster-pump-operation": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 12:46:30 GMT+0200"
+    },
+    "installation": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 12:46:30 GMT+0200"
+    },
+    "smart-pump-technology": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 12:46:40 GMT+0200"
+    },
+    "pressure-and-flow": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 12:46:30 GMT+0200"
+    },
+    "frequently-asked-questions": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 12:46:30 GMT+0200"
+    }
+  },
+  "The-extended-circulator-range": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Mon Apr 11 2016 15:20:55 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "The Extended Circulator Range",
+      "jcr:versionHistory": "6e4dc105-6330-40d9-85d3-0f51114fb722",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "jcr:predecessors": [
+        "ca6719bc-34b6-4de3-bf2a-96f6c1ee8b02"
+      ],
+      "jcr:created": "Mon Apr 11 2016 15:20:55 GMT+0200",
+      "cq:lastModified": "Mon Apr 11 2016 15:20:55 GMT+0200",
+      "jcr:baseVersion": "ca6719bc-34b6-4de3-bf2a-96f6c1ee8b02",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "grundfos:page-category/others"
+      ],
+      "jcr:uuid": "99c75dbc-d79c-483a-83a0-6a0b6b68abdf",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "cq:lastModifiedBy": "52140"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:43:26 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:43:26 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:20:55 GMT+0200"
+    },
+    "ecr-ALPHA1": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:20:55 GMT+0200"
+    },
+    "ecr-ups2": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:20:55 GMT+0200"
+    },
+    "ecr-a-comparison-of-grundfos-circulators": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:20:56 GMT+0200"
+    }
+  },
+  "grundfos-alpha3": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Mon Apr 11 2016 15:25:15 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "Grundfos ALPHA3",
+      "jcr:versionHistory": "7b5372e0-30b3-4945-b4d7-1d931c3a0618",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "jcr:predecessors": [
+        "575ac941-57c7-4caf-8950-7c59a018631d"
+      ],
+      "jcr:created": "Mon Apr 11 2016 15:25:15 GMT+0200",
+      "cq:lastModified": "Mon Apr 11 2016 15:25:15 GMT+0200",
+      "jcr:description": "This topic offers an introduction to the ALPHA3 with a special focus on efficient and easy balancing of heating systems in one-family homes.",
+      "jcr:baseVersion": "575ac941-57c7-4caf-8950-7c59a018631d",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "ecademy:roles/installer/domestic-buildings/heating-dbs",
+        "ecademy:roles/installer/commercial-buildings/heating-cbs",
+        "grundfos:page-category/others"
+      ],
+      "jcr:uuid": "e54cd279-4553-4007-ae89-dff2d3d21703",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "cq:lastModifiedBy": "52140"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:44:26 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:44:26 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Mon Apr 11 2016 15:25:15 GMT+0200"
+    },
+    "Introduction-to-balancing-in-one-family-homes": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:25:41 GMT+0200"
+    },
+    "Easy-balancing-with-the-alpha-reader-and-the-go-balance-app": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:25:41 GMT+0200"
+    },
+    "alpha3-features-and-benefits": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Mon Apr 11 2016 15:25:41 GMT+0200"
+    },
+    "balancing-combined-radiator-and-underfloor-heating-systems": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:20:04 GMT+0200"
+    }
+  },
+  "boiler-systems": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "49456",
+    "jcr:created": "Thu Nov 08 2018 09:39:50 GMT+0100",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "49456",
+      "jcr:title": "Boiler systems",
+      "cq:lastReplicationAction": "Activate",
+      "jcr:versionHistory": "b221965d-8166-43d3-bee2-c95b17d7a842",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "cq:lastReplicatedBy": "49456",
+      "jcr:predecessors": [
+        "5349d5b1-8d4c-4ee6-aa15-4387767bf20b"
+      ],
+      "jcr:created": "Thu Nov 08 2018 09:39:50 GMT+0100",
+      "cq:lastReplicated": "Thu Nov 08 2018 09:43:30 GMT+0100",
+      "cq:lastModified": "Thu Nov 08 2018 09:39:50 GMT+0100",
+      "jcr:description": "This topic offers insights on what to be aware of when designing steam boiler systems and how to ensure efficient level control in the boiler.",
+      "jcr:baseVersion": "5349d5b1-8d4c-4ee6-aa15-4387767bf20b",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "grundfos:page-category/others",
+        "ecademy:roles/consulting-engineer/industry/boiler-feed",
+        "ecademy:roles/professional-end-user/industry/boiler-feed",
+        "ecademy:roles/professional-end-user/industry/heating",
+        "ecademy:roles/consulting-engineer/industry/heating-ind"
+      ],
+      "jcr:uuid": "5d71b62b-b8d6-40aa-ab67-c59b37c52b13",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "cq:lastModifiedBy": "49456"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "49456",
+      "jcr:created": "Thu Nov 08 2018 09:39:50 GMT+0100"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "49456",
+      "jcr:created": "Thu Nov 08 2018 09:39:50 GMT+0100"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "49456",
+      "jcr:created": "Thu Nov 08 2018 09:39:50 GMT+0100"
+    },
+    "introduction-to-boiler-systems": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "49456",
+      "jcr:created": "Thu Nov 08 2018 09:39:50 GMT+0100"
+    },
+    "efficient-level-control-in-steam-boilers": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "49456",
+      "jcr:created": "Thu Nov 08 2018 09:39:50 GMT+0100"
+    },
+    "the-economiser-saving-energy-in-boiler-systems": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "49456",
+      "jcr:created": "Thu Nov 08 2018 09:39:50 GMT+0100"
+    }
+  },
+  "grundfos-sq-sqe": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52140",
+    "jcr:created": "Wed Sep 28 2016 10:20:04 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+
+      ],
+      "jcr:createdBy": "52140",
+      "jcr:title": "Grundfos SQ/SQE",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "jcr:created": "Wed Sep 28 2016 10:20:04 GMT+0200",
+      "cq:lastModified": "Wed Sep 28 2016 10:20:04 GMT+0200",
+      "jcr:description": "This topic offers a general introduction to submersible pumps for domestic applications with a special focus on the SQ/SQE pump.      ",
+      "cq:tags": [
+        "grundfos:page-category/others",
+        "ecademy:roles/installer/domestic-buildings/lifting",
+        "ecademy:roles/installer/domestic-buildings/water-supply"
+      ],
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "cq:lastModifiedBy": "52140"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Wed Sep 28 2016 10:20:04 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Wed Sep 28 2016 10:20:04 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "admin",
+      "jcr:created": "Wed Sep 28 2016 10:20:04 GMT+0200"
+    },
+    "introduction-to-submersible-pumps-for-domestic-applications": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:20:05 GMT+0200"
+    },
+    "features-and-benefits-of-the-sq-sqe-pump": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:20:05 GMT+0200"
+    },
+    "pump-sizing-and-installation-in-domestic-groundwater-applications": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52140",
+      "jcr:created": "Wed Sep 28 2016 10:20:05 GMT+0200"
+    }
+  },
+  "buildings-information-modeling": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "909657",
+    "jcr:created": "Fri Oct 13 2017 12:43:17 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "909657",
+      "jcr:title": "Buildings Information Modeling ",
+      "cq:lastReplicationAction": "Activate",
+      "jcr:versionHistory": "06e54c51-1090-4292-9ca2-2b6095b6e617",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "cq:lastReplicatedBy": "49456",
+      "jcr:predecessors": [
+        "eea56876-389c-4772-9750-c5d51db13e45"
+      ],
+      "jcr:created": "Fri Oct 13 2017 12:43:17 GMT+0200",
+      "cq:lastReplicated": "Mon Oct 29 2018 15:05:44 GMT+0100",
+      "cq:lastModified": "Fri Oct 13 2017 12:43:17 GMT+0200",
+      "jcr:description": "This topic introduces Buildings Information Modeling (BIM) to explain what it is and what it does. It also considers some of the challenges of BIM, and how Grundfos’ data-light approach addresses these challenges to provide more efficient solutions.",
+      "jcr:baseVersion": "eea56876-389c-4772-9750-c5d51db13e45",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "grundfos:page-category/training-event",
+        "ecademy:roles/consulting-engineer/commercial-buildings",
+        "ecademy:roles/consulting-engineer/industry",
+        "ecademy:roles/consulting-engineer/municipal-wastewater",
+        "ecademy:roles/consulting-engineer/municipal-water-supply"
+      ],
+      "jcr:uuid": "d190e9e3-57a0-4667-bee9-d6c5871a5c8a",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "cq:lastModifiedBy": "909657"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "909657",
+      "jcr:created": "Fri Oct 13 2017 12:43:19 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "909657",
+      "jcr:created": "Fri Oct 13 2017 12:43:20 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "909657",
+      "jcr:created": "Fri Oct 13 2017 12:43:20 GMT+0200"
+    },
+    "an-introduction-to-bim": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "909657",
+      "jcr:created": "Fri Oct 13 2017 12:43:20 GMT+0200"
+    },
+    "making-bim-even-more-efficient": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "909657",
+      "jcr:created": "Fri Oct 13 2017 12:43:21 GMT+0200"
+    }
+  },
+  "industrial-water-treatment": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "909657",
+    "jcr:created": "Fri Oct 13 2017 10:59:50 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+
+      ],
+      "jcr:createdBy": "909657",
+      "jcr:title": "Industrial Water Treatment",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "jcr:created": "Fri Oct 13 2017 10:59:50 GMT+0200",
+      "cq:lastModified": "Wed Oct 17 2018 15:47:37 GMT+0200",
+      "jcr:description": "This topic offers a general introduction to water treatment in industrial processes, including a more detailed survey of the different process steps. ",
+      "cq:tags": [
+        "grundfos:page-category/training-event",
+        "ecademy:roles/consulting-engineer/industry/water-treatment-ind",
+        "ecademy:roles/consulting-engineer/municipal-wastewater/wastewater-treatment",
+        "ecademy:roles/professional-end-user/industry/water-treatment-ind"
+      ],
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "difficulty": "basic",
+      "cq:lastModifiedBy": "911509"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "909657",
+      "jcr:created": "Fri Oct 13 2017 10:59:51 GMT+0200"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "909657",
+      "jcr:created": "Fri Oct 13 2017 10:59:51 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "909657",
+      "jcr:created": "Fri Oct 13 2017 10:59:51 GMT+0200"
+    },
+    "basic-introduction-to-water-treatment": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "909657",
+      "jcr:created": "Fri Oct 13 2017 10:59:51 GMT+0200"
+    },
+    "the-process-steps-in-water-treatment": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "909657",
+      "jcr:created": "Fri Oct 13 2017 10:59:51 GMT+0200"
+    },
+    "reliable-and-efficient-ultrafiltration-applications": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "909657",
+      "jcr:created": "Fri Oct 13 2017 10:59:52 GMT+0200"
+    }
+  },
+  "an-extended-look-at-building-information-modeling-bim": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "72676",
+    "jcr:created": "Mon Jul 02 2018 15:06:24 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "72676",
+      "jcr:title": "An extended look at Building Information Modeling (BIM)",
+      "cq:lastReplicationAction": "Activate",
+      "jcr:versionHistory": "977e63a3-7f38-47dd-9c7a-66d94ad639f1",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "cq:lastReplicatedBy": "72676",
+      "jcr:predecessors": [
+        "e9699afc-407b-41f3-9c1f-4ffd431f2b8b"
+      ],
+      "jcr:created": "Mon Jul 02 2018 15:06:24 GMT+0200",
+      "cq:lastReplicated": "Mon Jul 02 2018 15:06:43 GMT+0200",
+      "cq:lastModified": "Mon Jul 02 2018 15:06:24 GMT+0200",
+      "jcr:baseVersion": "e9699afc-407b-41f3-9c1f-4ffd431f2b8b",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "grundfos:page-category/training-event",
+        "ecademy:roles/consulting-engineer/commercial-buildings",
+        "ecademy:roles/consulting-engineer/municipal-wastewater",
+        "ecademy:roles/consulting-engineer/industry",
+        "ecademy:roles/consulting-engineer/municipal-water-supply"
+      ],
+      "jcr:uuid": "c930f937-7d0e-43ec-b328-f94444378bb8",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "difficulty": "basic",
+      "cq:lastModifiedBy": "72676"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "72676",
+      "jcr:created": "Mon Jul 02 2018 15:06:24 GMT+0200"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "72676",
+      "jcr:created": "Mon Jul 02 2018 15:06:24 GMT+0200"
+    },
+    "an-introduction-to-schedule-templates-and-data-standards-in-building-information-modeling-film": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "72676",
+      "jcr:created": "Mon Jul 02 2018 15:06:25 GMT+0200"
+    },
+    "understanding-lod-specification-in-building-information-modeling-film": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "72676",
+      "jcr:created": "Mon Jul 02 2018 15:06:25 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "20692",
+      "jcr:created": "Wed Nov 28 2018 13:50:52 GMT+0100"
+    }
+  },
+  "applying-proportional-pressure-in-water-boosting-systems": {
+    "jcr:primaryType": "cq:Page",
+    "jcr:createdBy": "52036",
+    "jcr:created": "Thu May 24 2018 09:54:22 GMT+0200",
+    "jcr:content": {
+      "jcr:primaryType": "cq:PageContent",
+      "jcr:mixinTypes": [
+        "mix:versionable"
+      ],
+      "jcr:createdBy": "52036",
+      "jcr:title": "Applying proportional pressure in water boosting systems",
+      "cq:lastReplicationAction": "Activate",
+      "jcr:versionHistory": "62fdebc5-b7fd-4f88-9ee4-d31ef17a06a7",
+      "cq:template": "/apps/grundfos/ecademy_web/templates/topic_page",
+      "cq:lastReplicatedBy": "20692",
+      "jcr:predecessors": [
+        "a184065b-db69-468b-8820-0d9230f1393f"
+      ],
+      "jcr:created": "Thu May 24 2018 09:54:22 GMT+0200",
+      "cq:lastReplicated": "Wed Nov 28 2018 13:54:46 GMT+0100",
+      "cq:lastModified": "Wed Nov 28 2018 13:54:26 GMT+0100",
+      "jcr:baseVersion": "a184065b-db69-468b-8820-0d9230f1393f",
+      "jcr:isCheckedOut": true,
+      "cq:tags": [
+        "ecademy:roles/other",
+        "ecademy:roles/consulting-engineer/commercial-buildings/pressure-boosting"
+      ],
+      "jcr:uuid": "a341a43c-c590-423e-b6fe-0d13dd014098",
+      "sling:resourceType": "grundfos/ecademy_web/templates/components/topic_ecademy",
+      "difficulty": "basic",
+      "cq:lastModifiedBy": "20692"
+    },
+    "topic-welcome": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52036",
+      "jcr:created": "Thu May 24 2018 09:54:22 GMT+0200"
+    },
+    "topic-completion": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52036",
+      "jcr:created": "Thu May 24 2018 09:54:23 GMT+0200"
+    },
+    "an-introduction-to-proportional-pressure-in-water-boosting-systems": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52036",
+      "jcr:created": "Thu May 24 2018 09:54:23 GMT+0200"
+    },
+    "how-to-save-energy-by-using-proportional-pressure-in-water-boosting-systems": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "52036",
+      "jcr:created": "Thu May 24 2018 09:54:23 GMT+0200"
+    },
+    "quiz": {
+      "jcr:primaryType": "cq:Page",
+      "jcr:createdBy": "20692",
+      "jcr:created": "Wed Nov 28 2018 13:51:19 GMT+0100"
+    }
+  }
+}
